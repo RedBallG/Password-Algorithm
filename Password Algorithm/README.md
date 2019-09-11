@@ -1,0 +1,1 @@
+The code for the script is in passalg.py for your pleasure to view. To run the Password Algorithm, go to the folder called Executable to run the Password Algorithm. This is one of my first projects with Python and Github so feedback would be appreciated! Enjoy :)
